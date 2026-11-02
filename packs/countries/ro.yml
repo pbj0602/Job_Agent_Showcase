@@ -1,0 +1,15 @@
+code: RO
+name: Romania
+flag: 🇷🇴
+places:
+- romania
+- bucharest
+- bucurești
+- cluj-napoca
+- iasi
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

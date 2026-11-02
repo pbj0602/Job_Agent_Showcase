@@ -1,0 +1,225 @@
+[
+  {
+    "id": "2026-10-03-campus-private-job-board-2027-trinity-college-dublin-software-engineering-intern",
+    "date": "2026-10-03",
+    "company": "Campus Private Job Board",
+    "title": "2027 Trinity College Dublin - Software Engineering Internship",
+    "location": "Dublin",
+    "country": "Ireland",
+    "listing_url": "https://job-boards.greenhouse.io/private_board/jobs/6211728004?utm_source=freehire.me",
+    "apply_url": "https://job-boards.greenhouse.io/private_board/jobs/6211728004?utm_source=freehire.me",
+    "ats": "greenhouse",
+    "apply_ats": "greenhouse",
+    "size": "small",
+    "size_reason": "",
+    "lang_required": [],
+    "lang_evidence": [],
+    "route": "auto",
+    "route_reason": "small company",
+    "status": "queued",
+    "questions": [
+      {
+        "label": "First Name",
+        "required": true,
+        "type": "input_text"
+      },
+      {
+        "label": "Last Name",
+        "required": true,
+        "type": "input_text"
+      },
+      {
+        "label": "Email",
+        "required": true,
+        "type": "input_text"
+      },
+      {
+        "label": "Phone",
+        "required": true,
+        "type": "input_text"
+      },
+      {
+        "label": "Resume/CV",
+        "required": true,
+        "type": "input_file"
+      },
+      {
+        "label": "Home Address",
+        "required": false,
+        "type": "input_text"
+      },
+      {
+        "label": "Will you require our company to sponsor you to obtain, maintain or extend current or future employment/work authorization?",
+        "required": true,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "If you replied yes to the question above, please explain.",
+        "required": false,
+        "type": "input_text"
+      },
+      {
+        "label": "Are you presently authorized to work for our company?",
+        "required": true,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "Are you currently an employee or have you been previously employed by KKR?",
+        "required": true,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "Were you referred by a current or previous KKR employee, or by an external affiliate of KKR?",
+        "required": true,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "Please provide name of Referrer. If not applicable, please indicate N/A.",
+        "required": false,
+        "type": "input_text"
+      },
+      {
+        "label": "Is the referrer aware they are being cited as a referral source?",
+        "required": false,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "Have you interviewed with KKR, its affiliates or any of its portfolio companies in the past 12 months? ",
+        "required": true,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "If yes, please provide details of the role, location and date.",
+        "required": false,
+        "type": "input_text"
+      },
+      {
+        "label": "Do you currently have a non-compete, non-solicitation, or notice period agreement that may affect your employment with KKR? Select all that apply.",
+        "required": true,
+        "type": "multi_value_multi_select"
+      },
+      {
+        "label": "If you replied yes to the question above, please provide details of non-compete, non-solicitation and/or notice periods.",
+        "required": false,
+        "type": "input_text"
+      },
+      {
+        "label": "I confirm that my application materials and interview responses reflect my own work and were not generated, edited, or supplemented by AI tools (e.g., ChatGPT, Gemini, Claude, etc.).",
+        "required": true,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "Are you currently, or have you ever been, employed by Deloitte in any capacity--for example, full-time, part-time, fixed-term, contractor/temporary, or intern/co-op/apprentice or the like? ",
+        "required": true,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "If yes, please provide your Deloitte employment details: job title, employment dates (MM/YYYY - MM/YYYY or MM/YYYY - Present, and office/location (city, country).",
+        "required": true,
+        "type": "input_text"
+      },
+      {
+        "label": "Do you have any family members currently employed by KKR (inclusive of Global Atlantic Financial Company (“GA”)? For purposes of this question, a “family member” includes (a) anyone related to a KKR or GA employee by blood, adoption, foster care or marriage (including step-relationships); or (b) a spouse, fiancé(e), domestic partner, or any individual with whom the employee has a relationship that is substantially similar to a familial or marital relationship.",
+        "required": true,
+        "type": "multi_value_single_select"
+      },
+      {
+        "label": "If Yes, please provide the name of the current GA or KKR employee and identify the familial relationship.",
+        "required": true,
+        "type": "input_text"
+      },
+      {
+        "label": "If you are fluent in any additional language, please specify.",
+        "required": false,
+        "type": "input_text"
+      },
+      {
+        "label": "Please indicate any languages in which you are fluent.",
+        "required": true,
+        "type": "multi_value_multi_select"
+      }
+    ],
+    "error": null,
+    "jd_source": "ats",
+    "jd_chars": 5915,
+    "jd": "COMPANY OVERVIEW\n\nKKR is a leading global investment firm that offers alternative asset management as well as capital markets and insurance solutions. KKR aims to generate attractive investment returns by following a patient and disciplined investment approach, employing world-class people, and supporting growth in its portfolio companies and communities. KKR sponsors investment funds that invest in private equity, credit and real assets and has strategic partners that manage hedge funds. KKR’s insurance subsidiaries offer retirement, life and reinsurance products under the management of Global Atlantic Financial Group. References to KKR’s investments may include the activities of its sponsored funds and insurance subsidiaries.\n\nPROGRAMME OVERVIEW\nThis is an in-person internship based in Dublin, Ireland, commencing in January 2027 for a period of 6 to 9 months. You will work within the technology team as a Software Engineer for the duration of the internship and will attend an orientation providing an overview of KKR and alternative investments. You will contribute to real projects, attend educational and network-building programming, and have the opportunity to showcase your work to technology leaders. Interns are encouraged to leverage KKR's AI tools to accelerate their work, deepen their learning, and contribute fresh perspectives on how emerging technology can enhance the way we operate. Full-time offers may be extended in alignment with exceptional performance, subject to business headcount needs.\n\nTHE OPPORTUNITY\nAs part of our continued investment in Ireland, KKR is launching a Technology & Engineering Centre of Excellence in Dublin. This new hub will play a central role in building the world’s first technology platform engineered to manage over one trillion dollars in alternative AUM (assets under management.) Designed from the ground up for scale, security and speed, this is the infrastructure for the future of global finance. Areas of focus include investment technology, portfolio construction and management, liquidity solutions, risk analytics, and advanced data platforms\n\nTHE TECHNOLOGY FUNCTION \nKKR's Technology organisation is a global group of passionate technologists and product managers, unified by a shared mission to deliver exceptional products and solutions that drive value for our stakeholders, clients, and investors. Our passion for technology and innovation fuels our commitment to creating high-quality, impactful solutions that address complex challenges and meet the evolving needs of our sophisticated businesses.\n\nTeamwork is at the core of the organisation's success. We thrive on open collaboration and continuous learning, driving a culture that values diversity of thought and collective achievement. Our global footprint fosters the integration of a diverse set of ideas and viewpoints in product and solution delivery, allowing us to design more comprehensive solutions that are adaptable and scalable. We optimise for impact, prioritising and delivering solutions with excellence while remaining agile in response to the evolving needs of our businesses.\n\nTHE TEAMS\n\nInvestment Systems\nThe Investment Systems team engineers all aspects of the Investment Lifecycle across an array of asset classes: from deal sourcing and portfolio construction to risk management and monetisation. They design platforms that connect data, people, and insights across Private Equity, Credit, Real Estate, Infrastructure, and Capital Markets, enabling investment teams to make faster, smarter decisions at scale. Their mandate is to transform how KKR invests by engineering shared, data-driven platforms that replace fragmented legacy tools with integrated solutions that drive efficiency, transparency, and alpha generation.\n\nBusiness Operations Systems\nThe Business Operations Systems team is comprised of Operations Systems and Enterprise Systems. It consolidates capabilities across five core domains: Operating Platform Services, which supports the firm's core operating platforms; Client Operations and lifecycle management across Asset Management and Insurance; Finance Technology, providing an integrated fund and corporate finance technology ecosystem; Human Capital & Employee Experience, driving HR platforms, workforce data, collaboration tools, and employee experiences; and Governance, Risk & Compliance Technology, supporting the Legal, Compliance, Risk, Audit, and Tax functions.\n\nCRITICAL COMPETENCIES FOR SUCCESS\n\n- Currently attending a university in Ireland, the UK, or continental Europe with an outstanding academics, and available for a 6–9-month placement starting January 2027\n\n- Currently enrolled in a bachelor's or master's degree in computer science or a related technical field (undertaking a placement/internship year or a work-integrated master's)\n\n- Eligible to work in Ireland on a full-time basis without the need for current visa sponsorship\n\n- Proficiency with Java, Python, C/C++\n\n- Curiosity about and openness to adopting emerging AI technologies in workflows\n\n- Ability to critically evaluate AI-generated outputs for accuracy and relevance\n\n- Effective prompt design and generating reliable results using generative AI tools\n\n- Exceptional communication and interpersonal skills\n\n- Ability to act both strategically and tactically with exceptional attention to detail\n\n- Outstanding time management and organisational skills with the ability to manage multiple tasks with competing deadlines\n\n- Team-player who enjoys working in a collaborative and collegial environment and is willing to pitch in when needed\n\n#LI-DNI\n\nKKR is an equal opportunity employer. Individuals seeking employment are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, sexual orientation, or any other category protected by applicable law."
+  },
+  {
+    "id": "2026-10-16-clearscore-graduate-software-engineer",
+    "date": "2026-10-16",
+    "company": "ClearScore",
+    "title": "Graduate Software Engineer",
+    "location": "London, England, United Kingdom",
+    "country": "United Kingdom",
+    "listing_url": "https://jobs.example.com/postings/2",
+    "apply_url": "https://jobs.example.com/postings/2",
+    "ats": "other",
+    "apply_ats": "other",
+    "size": "small",
+    "size_reason": "",
+    "lang_required": [],
+    "lang_evidence": [],
+    "sponsorship": "no",
+    "sponsorship_evidence": "plications close sunday 20th of september\n\nplease note visa sponsorship is not available for this opportunity\n\nsince our acquisi",
+    "route": "skip",
+    "route_reason": "UK: no visa sponsorship / right to work required",
+    "status": "queued",
+    "questions": null,
+    "error": null,
+    "jd_source": "ats",
+    "jd_chars": 6213,
+    "jd": "Graduate Software Engineering Opportunities - Applications Close Sunday 20th of September\n\nPlease note visa sponsorship is not available for this opportunity\n\nSince our acquisition by ClearScore in January, we've announced record levels of activity across our intermediary platform. Revenue has grown 2.5x year-on-year since the start of 2026, and the value of mortgage transactions submitted through the platform has reached a new record, a clear sign that we're helping mortgage businesses scale faster and smarter. As we continue to grow, we're looking for ambitious graduates with a passion for software engineering to join us in transforming the industry and shaping the future of home buying. You'll help build a platform that empowers consumers, brokers and operational functions to efficiently manage the mortgage research, application and home buying process.\n\nWe currently have opportunities across Frontend and Backend engineering available, whichever path suits you best, you'll be joining an agile engineering team where you'll write reusable, tested and efficient code that is performant, stable, secure and always production ready. You'll take ownership of the full lifecycle of the components you build, work with the wider business to turn requirements into deliverables, and grow into a mentor for those around you.\n\nRequirements: \n\n- 2:1 or higher degree in Computer Science, Mathematics, another scientific or technical discipline, or equivalent experience\n\n- Graduated in 2025 or 2026\n\n- Full right to work in the UK, now and in the future\n\n- Able to come into our London office twice a week\n\nWhat you will be doing:\n\nFrontend\n\nYou'll design, implement and test the user interfaces at the heart of our product. You'll deep dive into React to write our components, use TypeScript for strongly typed JavaScript, and work with Apollo and Context for state management. These will be your bread and butter, though you'll occasionally meet some RxJS and Handlebars too. The team will be on hand to help you.\n\nBackend\n\nYou'll design, implement and test the backend components that power the platform. You'll work with technologies such as Go or C++, converting business requirements into development tasks, and gaining hands-on experience with deployment, issue management, code versioning and continuous integration and deployment.\n\nSkills We'd Love You To Have\n\n- Passionate about software engineering and about delivering a quality product. \n\n- Comfortable reading and writing code, with experience across a range of languages, frameworks and patterns. \n\n- Familiar with automated testing platforms and unit tests, and committed to readable, maintainable code. \n\n- Aware of how security, reliability, performance, usability and scaling all contribute to quality. \n\n- An clear communicator who is ambitious but pragmatic when needed. \n\nWhy ClearScore and Acre?\n\nClearScore is the UK's #1 credit score and report app, helping more than 25 million users globally make better financial decisions. As part of the ClearScore Group, Acre is transforming the UK's £1.4 trillion mortgage market with a modern, end-to-end platform that simplifies the home-buying journey for brokers, lenders and consumers.\n\nTogether, we're creating a more seamless path from financial wellbeing to homeownership, combining ClearScore's scale and consumer reach with Acre's market-leading mortgage technology. We're a technology-led, user-centric business with an inclusive culture that empowers people to make an impact, grow their careers and help shape the future of financial services.\n\nBenefits:\n\n- 25 paid holidays and a “duvet day” on your birthday\n\n- Hybrid Work Environment\n\n- Private health and dental cover - including mental health support through Bupa \n\n- GP office visits\n\n- Life assurance scheme\n\n- Up to 6% matched pension\n\n- Regular Lunch and Learns with guest speakers\n\n- Dog-friendly office\n\n- Daily breakfast and free snacks\n\n- Access to discounts via Cobens Extras \n\n- Free sports and social clubs\n\n- Continued investment into learning and development \n\n- Leadership-led training\n\n- In-house psychotherapist\n\n- Financial coach to help you plan and achieve your goals\n\n- No clock-watching culture\n\n- Generous maternity and paternity plans\n\n- Culture and inclusion representatives\n\n- Transparent pay structure and a career growth plan\n\nEqual Opportunities\n\nClearScore is committed to providing equal employment opportunities to all qualified individuals. As an equal opportunity employer, we are able to make reasonable adjustments to accommodate individuals with disabilities during the recruitment and selection process. If you require accommodation, please inform us in advance, and we will work with you to meet your needs.\n\nOur Hybrid Model\n\nWe embrace a dynamic hybrid work environment that balances flexibility with collaborative in-person experiences. Our approach is designed to foster innovation, team connection, and individual productivity.\n\n- Levels 1-5: Minimum 2 days per week in-office\n\n- Level 6 and above: Minimum 3 days per week in-office\n\nWe believe this structure offers the best of both worlds - the flexibility of remote work and the synergy of face-to-face collaboration. Our office days are carefully coordinated to maximise team interactions and learning/ mentorship opportunities.\n\nWhat This Means for You:\n\n- Flexibility to manage your work and life\n\n- Dedicated in-office days for team building and collaborative projects\n\n- Office facilities (with plants!) designed for productive interactions\n\n- Clear expectations and support for maintaining our hybrid schedule\n\nWe’re committed to creating an inclusive environment that accommodates diverse needs while maintaining our collaborative culture. Join us in shaping the future of work!\n\nNote: While we offer flexibility, commitment to our hybrid schedule is an important aspect of our team culture and performance expectations.\n\nInclusion Policy\n\nWe are always looking for talented individuals to join ClearScore. We are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for our people. Please see our People Policy Notice at https://www.clearscore.com/people-notice."
+  },
+  {
+    "id": "2026-10-16-arm-data-analytics-intern",
+    "date": "2026-10-16",
+    "company": "ARM",
+    "title": "Data Analytics Intern",
+    "location": "Cambridge, United Kingdom",
+    "country": "United Kingdom",
+    "listing_url": "https://careers.arm.com/job/cambridge/data-analytics-intern/33099/101898105744?utm_source=freehire.me",
+    "apply_url": "https://careers.arm.com/job/cambridge/data-analytics-intern/33099/101898105744?utm_source=freehire.me",
+    "ats": "other",
+    "apply_ats": "other",
+    "size": "big",
+    "size_reason": "on list: arm",
+    "lang_required": [],
+    "lang_evidence": [],
+    "sponsorship": "no",
+    "sponsorship_evidence": "course after your internship/placement.\n\nplease note we are unable to provide visa sponsorship for this role. applicants must have",
+    "route": "skip",
+    "route_reason": "UK: no visa sponsorship / right to work required",
+    "status": "queued",
+    "questions": null,
+    "error": null,
+    "jd_source": "json-ld",
+    "jd_chars": 8119,
+    "jd": "Arm’s Silicon Quality Analytics & Insights team helps teams make better decisions by turning complex data into clear, reliable insights. We work with colleagues across Arm to improve data quality, automate analytics and communicate findings that support quality and continuous improvement.\n\nAs an intern, you’ll contribute to this work while building practical experience in data analysis, AI-enabled automation and machine learning. With support from experienced colleagues, you’ll learn how to turn a business question into an analytical solution, evaluate the results and communicate insights to stakeholders and business partners.\n\nWhat you could be doing as a Data Analytics Intern?\n\nData Discovery. You could help explore datasets to identify trends, investigate unexpected results and answer questions from our engineering and business teams. Working alongside colleagues, you’ll learn to use Codex, SQL and Python to prepare and analyse data, understand how different sources fit together and check for missing or inconsistent information.\n\nAI and Automation. You’ll explore how AI can automate repetitive analytical tasks, from preparing and validating data to developing reusable workflows. With guidance from the team, you’ll use AI-assisted development tools to build and improve solutions, while learning to test their outputs and check that they are accurate and reliable.\n\nMachine Learning. You could also apply machine learning algorithms to real data challenges—for example, detecting unusual patterns, grouping similar records or predicting trends. You’ll develop experience in selecting suitable approaches, evaluating model performance and understanding the limitations of your results. Projects will reflect your experience and learning goals, with support as you build your skills.\n\nCommunication. Sharing what you discover will be an important part of your work. You’ll help create Tableau dashboards and visualisations, discuss findings with stakeholders and business partners, and explain how your analysis could inform decisions. As your confidence grows, you’ll take responsibility for a manageable piece of work, from understanding the question to presenting the outcome.\n\nWe are looking for individuals who:\n\nAre currently studying towards a Bachelor’s, Master’s or PhD in Data Science, Computer Science, Mathematics, Statistics, Engineering or a related subject. We also welcome students from other degree backgrounds who can demonstrate relevant skills through coursework or projects.\n\nYou’ll bring an interest in using data, AI and machine learning to solve practical problems, an analytical approach and a willingness to learn. Some experience working with data through your studies, personal projects or previous work will help you get started. You should be comfortable asking questions, checking details and collaborating with others.\n\nQualities that will help your application stand out:\n\n- Familiarity with Python or SQL for preparing, exploring and analysing data.\n\n- An understanding of basic statistics or machine learning concepts, with opportunities to demonstrate these through coursework or projects.\n\n- Curiosity about using AI-assisted tools to develop solutions and automate repetitive tasks, with an interest in checking and improving their outputs.\n\n- Experience creating visualisations using Tableau, Power BI, Python or similar tools, and explaining findings to others.\n\n- Examples of learning unfamiliar tools, investigating data quality issues or improving a process through a university or personal project.\n\nYou do not need experience with every tool listed. We’re interested in your potential and how you approach learning and problem-solving. Previous semiconductor industry experience is not required.\n\nAdditional Information:\n\nThis is a 12 month internship starting June 2027.\n\nWe encourage early applications as we review them on a first come/first served basis.\n\nArm Internships require you to be enrolled in a higher education degree and be returning to your course after your internship/placement.\n\nPlease note we are unable to provide visa sponsorship for this role. Applicants must have the right to work in the country where the internship is based, without relying on sponsorship by Arm, for the full duration of the internship.\n\nIn Return:\n\nWorking on interesting new projects with leaders in the field is exciting, but we also know how important it is to receive support. That's why throughout your internship, you can expect regular feedback and development opportunities, social activities to connect with your peers, an end of internship celebration, plus the opportunity to be *considered for future Graduate positions (*subject to performance). #getreadytogrow\n\nIn addition to a competitive salary of £33,000, our on-the-job learning and mentoring/buddy schemes provide unparalleled learning and networking opportunities from the best in the industry.\n\n#LI-KW\n\nOur 10x Mindset\n\nAt Arm, we believe progress happens when people are empowered to think bigger and push beyond what seems possible. Our 10x mindset is about curiosity, ambition and creating impact that will be used by millions. We learn fast, prioritise collaboration and turn bold ideas into real technology. We look for people who are inspired by this way of working and want to grow in an environment where bold ideas are welcomed. Discover how the 10x mindset shapes life at Arm: https://careers.arm.com/10x-mindset\n\nUse of AI in Your Application\n\nAt Arm, we embrace the benefits AI can bring, including in recruitment. You may use AI to support your preparation, such as improving the clarity of written responses, practicing interview questions, or learning more about our industry. However, your application and interview responses must reflect your own thinking, experience, and abilities. We want to understand your authentic perspective, creativity, and approach to problem solving. As such, you may not use AI to complete assigned tasks as part of any assessments. If you plan to use AI-supported or assistive technologies as part of a reasonable adjustment, please contact accommodations@arm.com so we can support you.\n\nRecruitment Adjustments and Accommodations\n\nAt Arm, we want to build extraordinary teams. If you need an adjustment or an accommodation during the recruitment process, please email accommodations@arm.com. To note, by sending us the requested information, you consent to its use by Arm to arrange for appropriate accommodations. All accommodation or adjustment requests will be treated with confidentiality, and information concerning these requests will only be disclosed as necessary to provide the accommodation. Although this is not an exhaustive list, examples of support include breaks between interviews, having documents read aloud, or office accessibility. Please email us about anything we can do to accommodate you during the recruitment process.\n\nHybrid Working\n\nArm’s approach to hybrid working is designed to create a working environment that supports both high performance and personal wellbeing. We believe in bringing people together face to face to enable us to work at pace, whilst recognizing the value of flexibility. Within that framework, we empower groups/teams to determine their own hybrid working patterns, depending on the work and the team’s needs. Details of what this means for each role will be shared upon application. In some cases, the flexibility we can offer is limited by local legal, regulatory, tax, or other considerations, and where this is the case, we will collaborate with you to find the best solution. Please talk to us to find out more about what this could look like for you.\n\nEqual Opportunities\n\nArm is an equal opportunity employer, committed to providing an environment of mutual respect where equal opportunities are available to all applicants and colleagues. We are a diverse organization of dedicated and innovative individuals, and don’t discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran."
+  },
+  {
+    "id": "2026-10-16-radius-graduate-mobile-developer",
+    "date": "2026-10-16",
+    "company": "Radius",
+    "title": "Graduate Mobile Developer",
+    "location": "Crewe, England, United Kingdom",
+    "country": "United Kingdom",
+    "listing_url": "https://jobs.example.com/postings/4",
+    "apply_url": "https://jobs.example.com/postings/4",
+    "ats": "other",
+    "apply_ats": "other",
+    "size": "small",
+    "size_reason": "",
+    "lang_required": [],
+    "lang_evidence": [],
+    "sponsorship": "no",
+    "sponsorship_evidence": "ia, barista, and roof top bar.\n\nimportant: unfortunately we are not able to provide visa sponsorship for this role. you must have full,",
+    "route": "skip",
+    "route_reason": "UK: no visa sponsorship / right to work required",
+    "status": "queued",
+    "questions": null,
+    "error": null,
+    "jd_source": "ats",
+    "jd_chars": 6642,
+    "jd": "Job Description\n\nThe role of Graduate Mobile Developer is really important to us.\n\nIn this role you’ll join the software development team in our successful and growing vehicle telematics business unit.\n\nA Graduate Developer role at Radius offers real life exposure to the technologies and industries in which we operate and to the international marketplace. It provides the opportunity to gain experience on impactful projects and develop skills in an environment that encourages excellence and rewards enquiring minds.\n\nYou will have access to an active support network of peers, managers, and mentors, all of whom are on hand to help you get the most from your experiences and support you to make the right career decisions for you.\n\nCombine this with comprehensive on and off the job training as you make real contributions to live projects, and you won't just gain a unique overview of a successful business, you will have built an incomparable foundation on which to build a rewarding long-term career at Radius.\n\nWe would love to welcome you to our brand-new telematics head office at Arden Square, Crewe, Cheshire, working hours of Monday-Friday 8:30am – 5:00pm.\n\nIt is a fantastic modern working environment, built for collaboration, with features including onsite pizzeria, barista, and roof top bar.\n\nImportant: Unfortunately we are not able to provide visa sponsorship for this role. You must have full, long term, right to work in the UK in order to be considered.\n\nYour Responsibilities Day To Day Will Be…\n\n- Coordination with internal teams and work as a team player\n\n- Assess feature requests and develop technical solution\n\n- Write effective, scalable, and testable code\n\n- Integrate user-facing elements into applications\n\n- Improve functionality of the existing systems\n\n- Test and debug programs.\n\n- Identifying and fixing production bugs\n\nWhat do we expect of you?\n\n- Recent degree in computer science, or equivalent subject\n\n- Familiarity with multiplatform frameworks such as Flutter or React Native or KMP, or native Kotlin/Java or Swift\n\n- Familiarity with using API REST endpoints\n\n- Familiarity with integrating third party SDKs e.g. Google Maps, AWS, Facebook etc\n\n- Good problem-solving skills\n\n- Good communication skills\n\n- Passion for simplifying processes\n\n- Beneficial to have some understanding of UX / UI design\n\nWhat You Can Expect From Us...\n\nMeaningful work\n\nYou’ll be contributing to a critical telematics platform that supports connected vehicle solutions used by businesses globally.\n\nA standout workspace\n\nBased in our purpose-built Telematics HQ at Arden Square, Crewe, you’ll enjoy:\n\n- Modern, collaborative workspaces\n\n- Onsite pizzeria, café, and barista station\n\n- A unique rooftop bar\n\n- And yes… Star Wars themed features throughout the office!\n\nCareer development\n\nYour impact on Radius will be rewarded with the opportunity to progress your career in many directions.\n\nThe development of our people has always been a priority for us. We have established a culture of continuous learning and knowledge-sharing which means our colleagues are constantly exposed to new experiences and ways of working.\n\nEvery individual, from entry-level to the senior team, have their own personal development plans with clear routes for progression and regular reviews.\n\nRewards and benefits\n\nIn addition to a competitive salary, you’ll have access to a reward and benefits package which includes:\n\n- Pension\n\n- Life assurance\n\n- Employee fuel card scheme (after 6 months)\n\n- Electric Vehicle scheme (after 12 months)\n\n- Employee assistance programme\n\n- Wellness and healthcare assistance via ‘Help@Hand’ by Unum\n\n- ‘Cycle to work’ scheme\n\n- Free breakfast daily in the office\n\n- Free gym access at Radius Campus\n\nAbout Radius…\n\nDriving business forward\n\nRadius offers fuel cards, telematics, vehicle leasing, EV charge points, telecoms and more to businesses globally.\n\nEstablished in 1990, we're trusted by over 470,000 businesses to help them grow and become more productive.\n\nWith over 3000 colleagues across 5 continents, our people are critical to our success as we develop new innovative products across a growing range of businesses.\n\nOur values...\n\nDriven - We are ambitious and tenacious. We constantly strive for more, we look to the future, and we are already working on what’s next.\n\nAgile - We are quick to adapt to change. We stay ahead of market trends and create solutions for the future.\n\nInnovative - The status quo is there to be challenged. We are passionate about pushing boundaries and always think bigger.\n\nInclusive - We know the value of our customers, partners, suppliers and colleagues. We encourage inclusivity and work collaboratively.\n\nAdditional Information\n\nDiversity, Equality & Inclusion at Radius\n\nOur global DEI networks champion LGBTQ+ inclusion, cultural diversity, women’s empowerment and mental health, neurodiversity and disability support.\n\nWe Also Offer\n\n- Global Female Health Policy & Female Health Champions\n\n- Pregnancy Loss and Fertility Treatment Policies\n\n- Endometriosis Friendly Employer (UK)\n\n- Women-focused gym & female health events\n\n- Mental Health First Aiders\n\n- Disability Confident Committed Employer (Level 1)\n\n- Race at Work Charter signatory\n\n- Proud sponsor of Crewe Pride (5 years running) and Cheshire Pride Awards Corporate Supporter 2025\n\n- Community network driving charity and volunteering initiatives, with 8 consecutive years of participation in the UK Challenge.\n\n- Give as you earn scheme (payroll giving) and match funding\n\nNext Steps\n\nIf you feel we are a good match for each other, you can apply online now!\n\nIf you’d like to understand more about the role or life at Radius before applying, then please contact our talent team directly.\n\nRadius is an equal opportunities employer. We are committed to welcome people regardless of age, disability, gender identity, race, faith or belief, sexual orientation or socioeconomic background.\n\nWe are committed to ensuring an inclusive and accessible recruitment process for all candidates. If you require any adjustments or accommodations at any stage of the process, please let us know, and we will do our best to support you.\n\nWe reserve the right to close a vacancy before the closing date in the event of an overwhelming response or a change in business priorities.\n\nNote To Recruitment Agencies\n\nWe do not accept speculative recruitment agency CVs or profiles. Any unsolicited CV received by Radius will be treated as a gift and not eligible for an agency fee.\n\nPSL agencies should only send CVs via our Applicant Tracking System, when approved to do so by the Radius Talent Team."
+  }
+]

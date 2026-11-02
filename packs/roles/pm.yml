@@ -1,0 +1,9 @@
+name: Product management
+title_keywords: [product manager, product management, associate product manager, apm, product owner, product intern, product analyst]
+jd_keywords: [roadmap, user research, stakeholders, prioritisation, prioritization, requirements, metrics, experimentation, go-to-market, discovery, prd]
+cv:
+  title_line: product
+  section_order: [profile, education, experience, projects, skills]
+  lead_with: [users, adoption, outcomes, cross-functional delivery]
+  evidence_tags: [pm, all]
+  bullet_emphasis: "problem + what shipped + adoption or business result"

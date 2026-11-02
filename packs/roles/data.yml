@@ -1,0 +1,9 @@
+name: Data / BI / analytics
+title_keywords: [data analyst, data engineer, business intelligence, bi engineer, analytics, analytics engineer, data science]
+jd_keywords: [sql, dashboard, etl, pipeline, tableau, power bi, looker, dbt, spark, airflow, a/b test, metrics]
+cv:
+  title_line: engineering
+  section_order: [profile, education, experience, projects, skills]
+  lead_with: [decisions enabled, data scale, time saved]
+  evidence_tags: [swe, data, all]
+  bullet_emphasis: "analysis or pipeline + decision or time it changed"

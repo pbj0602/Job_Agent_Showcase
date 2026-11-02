@@ -1,0 +1,13 @@
+code: SK
+name: Slovakia
+flag: 🇸🇰
+places:
+- slovakia
+- bratislava
+- kosice
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

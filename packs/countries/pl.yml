@@ -1,0 +1,24 @@
+code: PL
+name: Poland
+flag: 🇵🇱
+places:
+- poland
+- polska
+- warsaw
+- warszawa
+- krakow
+- kraków
+- wroclaw
+- wrocław
+- gdansk
+- gdańsk
+- poznan
+- poznań
+- lodz
+- łódź
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

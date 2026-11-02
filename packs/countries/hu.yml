@@ -1,0 +1,12 @@
+code: HU
+name: Hungary
+flag: 🇭🇺
+places:
+- hungary
+- budapest
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

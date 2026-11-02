@@ -1,0 +1,12 @@
+[project]
+name = "job-agent"
+version = "0.1.0"
+description = "A human-in-the-loop job-search agent: collect postings, route them with evidence-cited rules, track every application."
+requires-python = ">=3.10"
+dependencies = ["pyyaml>=6", "openpyxl>=3.1"]
+
+[project.scripts]
+job-agent = "job_agent.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

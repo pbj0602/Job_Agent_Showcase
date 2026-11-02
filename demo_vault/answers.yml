@@ -1,0 +1,16 @@
+profile:
+  first_name: Alex
+  last_name: Morgan
+  email: alex.morgan@example.com
+  phone: "+46 70 000 00 00"
+  linkedin: https://www.linkedin.com/in/example
+  github: https://github.com/example
+  city: Utrecht
+rules:
+  - {match: "referred by|referral|referrer", answer: "No"}
+  - {match: "currently an employee|previously employed|worked for .* before", answer: "No"}
+  - {match: "gender|race|ethnic|veteran|disability|\\bpronouns?\\b", answer: "Decline to self-identify | Prefer not to say"}
+  - {match: "how did you hear", answer: "Company careers site"}
+  - {match: "start date|earliest .*start|available to start", answer: "June 2027"}
+  - {match: "privacy (policy|notice)|data protection|gdpr|processing of (my )?personal data|i have read|^i agree$", answer: "Yes"}
+  - {match: "^(?!.*high school).*(graduation|expected to graduate)", answer: "June 2028"}

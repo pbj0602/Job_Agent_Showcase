@@ -1,0 +1,12 @@
+# Companies whose public ATS job boards `job-agent scan` polls (demo list — replace with your own).
+# ats: greenhouse | lever | ashby | smartrecruiters | recruitee | workable | teamtailor
+# slug: the company's board name in that ATS (scripts/ats_probe.py can find it from a company name)
+- name: Stripe
+  ats: greenhouse
+  slug: stripe
+- name: Airbnb
+  ats: greenhouse
+  slug: airbnb
+- name: OpenAI
+  ats: ashby
+  slug: openai

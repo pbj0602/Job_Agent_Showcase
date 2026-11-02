@@ -1,0 +1,16 @@
+code: CZ
+name: Czechia
+flag: 🇨🇿
+places:
+- czechia
+- czech republic
+- prague
+- praha
+- brno
+- ostrava
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

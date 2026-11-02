@@ -1,0 +1,16 @@
+code: PT
+name: Portugal
+flag: 🇵🇹
+places:
+- portugal
+- lisbon
+- lisboa
+- porto
+- braga
+- coimbra
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

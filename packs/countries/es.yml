@@ -1,0 +1,20 @@
+code: ES
+name: Spain
+flag: 🇪🇸
+places:
+- spain
+- españa
+- madrid
+- barcelona
+- valencia
+- malaga
+- málaga
+- seville
+- sevilla
+- bilbao
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

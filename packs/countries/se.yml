@@ -1,0 +1,54 @@
+code: SE
+name: Sweden
+flag: 🇸🇪
+places:
+- sweden
+- sverige
+- swe
+- stockholm
+- göteborg
+- gothenburg
+- malmö
+- uppsala
+- linköping
+- lund
+- västerås
+- örebro
+- umeå
+- luleå
+- norrköping
+- jönköping
+- helsingborg
+- karlstad
+- sundsvall
+- gävle
+- borås
+- halmstad
+- växjö
+- karlskrona
+- kalmar
+- östersund
+- skövde
+- trollhättan
+- södertälje
+- kista
+- solna
+- sundbyberg
+- nacka
+- lidingö
+- täby
+- danderyd
+- mölndal
+- kiruna
+- falun
+- eskilstuna
+- stockholm county
+- västra götaland
+- skåne
+- östergötland
+cv:
+  max_pages: 2
+  photo: optional
+  birthdate: optional
+  spelling: UK
+  note: an older university CV checklist lists DOB; modern tech CVs usually omit it

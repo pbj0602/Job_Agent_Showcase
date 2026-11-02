@@ -1,0 +1,64 @@
+code: NL
+name: Netherlands
+flag: 🇳🇱
+places:
+- netherlands
+- nederland
+- holland
+- nld
+- amsterdam
+- rotterdam
+- the hague
+- den haag
+- '''s-gravenhage'
+- utrecht
+- eindhoven
+- groningen
+- tilburg
+- almere
+- breda
+- nijmegen
+- enschede
+- haarlem
+- arnhem
+- zaandam
+- amersfoort
+- apeldoorn
+- '''s-hertogenbosch'
+- den bosch
+- hoofddorp
+- maastricht
+- leiden
+- dordrecht
+- zoetermeer
+- zwolle
+- delft
+- deventer
+- hilversum
+- amstelveen
+- veldhoven
+- heerlen
+- venlo
+- helmond
+- wageningen
+- schiphol
+- katwijk
+- leeuwarden
+- noord-holland
+- north holland
+- zuid-holland
+- south holland
+- noord-brabant
+- north brabant
+- gelderland
+- overijssel
+- flevoland
+- friesland
+- drenthe
+- zeeland
+cv:
+  max_pages: 2
+  photo: optional
+  birthdate: optional
+  spelling: UK
+  note: One page acceptable (WUR)

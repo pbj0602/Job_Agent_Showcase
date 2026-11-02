@@ -1,0 +1,56 @@
+code: IE
+name: Ireland
+flag: 🇮🇪
+places:
+- ireland
+- irl
+- éire
+- dublin
+- cork
+- galway
+- limerick
+- waterford
+- kilkenny
+- wexford
+- carlow
+- kildare
+- meath
+- wicklow
+- louth
+- drogheda
+- dundalk
+- athlone
+- sligo
+- kerry
+- killarney
+- tralee
+- clare
+- shannon
+- ennis
+- tipperary
+- mayo
+- donegal
+- westmeath
+- offaly
+- laois
+- longford
+- roscommon
+- cavan
+- monaghan
+- leitrim
+- leixlip
+- maynooth
+- swords
+- sandyford
+- mulhuddart
+- carrigtwohill
+- ringaskiddy
+- blanchardstown
+- naas
+- navan
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Photo not the convention; no DOB (DCU, gradireland)

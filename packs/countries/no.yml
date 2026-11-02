@@ -1,0 +1,16 @@
+code: 'NO'
+name: Norway
+flag: 🇳🇴
+places:
+- norway
+- norge
+- oslo
+- bergen
+- trondheim
+- stavanger
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

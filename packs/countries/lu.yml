@@ -1,0 +1,40 @@
+code: LU
+name: Luxembourg
+flag: 🇱🇺
+places:
+- luxembourg
+- luxemburg
+- lëtzebuerg
+- lux
+- esch-sur-alzette
+- esch/alzette
+- belval
+- differdange
+- dudelange
+- ettelbruck
+- diekirch
+- wiltz
+- bertrange
+- leudelange
+- contern
+- munsbach
+- capellen
+- mamer
+- hesperange
+- howald
+- niederanven
+- senningerberg
+- walferdange
+- echternach
+- remich
+- grevenmacher
+- mersch
+- windhof
+- cloche d'or
+- gasperich
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

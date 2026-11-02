@@ -1,0 +1,24 @@
+# Country rules for the demo candidate (fictional). Illustrative values only — not legal advice;
+# write your own from official sources for your passport and enrolment.
+# tier: main | feasible | pending | big_programme_only | manual | skip
+# employer_action: what the host must do; self_action: what the candidate must do
+# sponsor_needed: must the EMPLOYER file something? presently_authorised: can the candidate truthfully answer
+#   "are you authorised to work here" with Yes today? (no when the candidate must first get their own permit)
+# Rule: only `confidence: verified` rows may drive CV wording. Others drive routing only.
+schema: 1
+countries:
+  SE: {tier: main, sponsor_needed: false, presently_authorised: true, employer_action: none, self_action: none, max_days: null, confidence: verified}
+  LU: {tier: feasible, sponsor_needed: false, presently_authorised: true, employer_action: none, self_action: "none for short internships", max_days: 90, confidence: verified}
+  DE: {tier: feasible, sponsor_needed: false, presently_authorised: false, employer_action: none, self_action: "residence permit for the internship", max_days: 180, confidence: verified}
+  IE: {tier: feasible, sponsor_needed: false, presently_authorised: false, employer_action: "paid contract", self_action: "short-stay work permission", max_days: 90, paid_only: true, confidence: verified}
+  DK: {tier: feasible, sponsor_needed: false, presently_authorised: false, employer_action: "salary per collective agreement", self_action: "intern permit", max_days: 540, confidence: verified}
+  UK: {tier: big_programme_only, sponsor_needed: true, presently_authorised: false, employer_action: "sponsored intern visa via an umbrella body", self_action: "visa", max_days: 365, confidence: verified}
+  NL: {tier: pending, sponsor_needed: true, presently_authorised: false, employer_action: "work permit for interns", self_action: "internship agreement from the school", max_days: 90, confidence: verified}
+  CH: {tier: big_programme_only, sponsor_needed: true, presently_authorised: false, employer_action: "quota permit", confidence: inferred}
+  FR: {tier: pending, sponsor_needed: true, presently_authorised: false, employer_action: "internship agreement filed in advance", self_action: "visa (long stays)", max_days: 180, confidence: inferred}
+  ES: {tier: skip, reason: "trainee permit conditions not met by this profile", confidence: inferred}
+  BE: {tier: skip, reason: "exemption only for obligatory internships", confidence: inferred}
+  # Not researched for this profile -> manual list only
+  PL: {tier: manual, confidence: unverified}
+  PT: {tier: manual, confidence: unverified}
+  IT: {tier: manual, confidence: unverified}

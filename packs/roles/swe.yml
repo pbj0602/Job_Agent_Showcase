@@ -1,0 +1,9 @@
+name: Software engineering
+title_keywords: [software engineer, software engineering, software developer, sde, swe, backend, back-end, frontend, front-end, full stack, full-stack, developer, platform engineer, devops, site reliability, sre, cloud engineer]
+jd_keywords: [data structures, algorithms, object-oriented, distributed systems, api, microservices, ci/cd, code review, java, python, c++, go, typescript, kubernetes, docker, aws]
+cv:
+  title_line: engineering           # which job-title variant the vault defines for this direction
+  section_order: [profile, education, experience, projects, skills]
+  lead_with: [built software, scale, reliability, tech stack]
+  evidence_tags: [swe, all]
+  bullet_emphasis: "what you built + measured effect (latency, users, time saved) + stack"

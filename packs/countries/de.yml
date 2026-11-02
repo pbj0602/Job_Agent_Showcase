@@ -1,0 +1,96 @@
+code: DE
+name: Germany
+flag: 🇩🇪
+places:
+- germany
+- deutschland
+- deu
+- berlin
+- hamburg
+- munich
+- münchen
+- cologne
+- köln
+- frankfurt
+- stuttgart
+- düsseldorf
+- leipzig
+- dortmund
+- essen
+- bremen
+- dresden
+- hanover
+- hannover
+- nuremberg
+- nürnberg
+- duisburg
+- bochum
+- wuppertal
+- bielefeld
+- bonn
+- münster
+- mannheim
+- karlsruhe
+- augsburg
+- wiesbaden
+- aachen
+- mainz
+- kiel
+- freiburg
+- lübeck
+- erlangen
+- regensburg
+- ingolstadt
+- heidelberg
+- darmstadt
+- potsdam
+- ulm
+- wolfsburg
+- göttingen
+- jena
+- rostock
+- magdeburg
+- halle
+- chemnitz
+- saarbrücken
+- kassel
+- paderborn
+- würzburg
+- osnabrück
+- oldenburg
+- garching
+- walldorf
+- herzogenaurach
+- sindelfingen
+- böblingen
+- leinfelden-echterdingen
+- neckarsulm
+- leonberg
+- unterschleißheim
+- ottobrunn
+- eschborn
+- bavaria
+- bayern
+- baden-württemberg
+- hesse
+- hessen
+- saxony
+- sachsen
+- niedersachsen
+- lower saxony
+- nordrhein-westfalen
+- north rhine-westphalia
+- nrw
+- brandenburg
+- thuringia
+- thüringen
+- rhineland-palatinate
+- rheinland-pfalz
+- schleswig-holstein
+- saarland
+cv:
+  max_pages: 2
+  photo: no (international CV); optional for German-language Lebenslauf
+  birthdate: 'no'
+  spelling: UK
+  note: 'German-language ads: Lebenslauf with optional photo + date and signature (LMU)'

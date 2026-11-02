@@ -1,0 +1,247 @@
+# Companies counted as "big" (well-known employers): the router tags them so the person can
+# give them a tailored CV. Workday links count as big without being listed here.
+# One name per line, matched as whole words in the company name, case- and accent-insensitive.
+
+# Big tech
+google
+alphabet
+deepmind
+meta
+facebook
+amazon
+aws
+apple
+microsoft
+netflix
+nvidia
+ibm
+oracle
+salesforce
+intel
+qualcomm
+cisco
+uber
+airbnb
+booking.com
+booking
+bloomberg
+tiktok
+bytedance
+huawei
+
+# Netherlands
+asml
+philips
+adyen
+ing
+abn amro
+rabobank
+shell
+unilever
+heineken
+nxp
+tomtom
+ahold
+just eat takeaway
+
+# Sweden
+spotify
+klarna
+ericsson
+volvo
+scania
+h&m
+ikea
+king
+saab
+sandvik
+atlas copco
+seb
+nordea
+handelsbanken
+swedbank
+skf
+electrolux
+astrazeneca
+
+# Germany
+sap
+siemens
+bosch
+bmw
+mercedes
+mercedes-benz
+volkswagen
+audi
+porsche
+allianz
+deutsche bank
+deutsche telekom
+telekom
+zalando
+delivery hero
+infineon
+continental
+basf
+bayer
+lufthansa
+dhl
+celonis
+n26
+trade republic
+
+# Ireland / Luxembourg
+stripe
+intercom
+workday
+accenture
+deloitte
+pwc
+kpmg
+ey
+ernst young
+mckinsey
+boston consulting group
+bcg
+bain
+jpmorgan
+jp morgan
+goldman sachs
+morgan stanley
+citi
+citigroup
+bnp paribas
+societe generale
+ubs
+
+# Trading firms (large intern programmes, rigid processes)
+optiver
+imc
+flow traders
+jane street
+citadel
+
+# Large firms that were tagged "small"
+databricks
+snowflake
+pinterest
+snap
+arm
+airbus
+john deere
+mahle
+sick
+swisscom
+clearstream
+deutsche borse
+genmab
+boskalis
+signify
+motorola
+motorola solutions
+td
+td bank
+lombard odier
+wellington management
+trumpf
+nike
+
+# UK employers mis-tagged as small
+revolut
+slb
+schlumberger
+bae systems
+qube research
+american express
+aveva
+bending spoons
+boehringer ingelheim
+london stock exchange
+lseg
+panasonic
+reply
+scale ai
+susquehanna
+tesco
+castleton commodities
+electronic arts
+advanced micro devices
+amd
+anduril
+baker hughes
+barclays
+bentley motors
+blackrock
+capital one
+epic games
+epicgames
+figma
+jump trading
+nbcuniversal
+palantir
+perplexity
+sage
+samsara
+squarepoint
+deliveroo
+cambridge consultants
+cambridgeconsultantslimited
+eurostar
+jd com
+optiverus
+
+# Large employers the old "small unless listed" default let through
+Tesla
+PepsiCo
+Lidl
+Henkel
+MongoDB
+Waymo
+Wise
+Arista Networks
+Babcock International
+Logitech
+MathWorks
+Stryker
+Verisk
+WTW
+Estee Lauder
+dsm-firmenich
+Cummins
+ABB
+ASM
+Arcadis
+F5 Networks
+SAS
+RELX
+Certara
+United Utilities
+Textron
+TNO
+Doctolib
+Helsing
+Plexus
+Viridien
+Redgate Software
+Simon-Kucher
+Palantir
+Stripe
+Databricks
+Celonis
+Datadog
+Cloudflare
+Notion
+Monzo
+Wolt
+Trade Republic
+GetYourGuide
+Mollie
+Adyen
+Elastic
+GitLab
+Intercom
+Twilio
+Dropbox
+Supercell
+Legora
+Polestar

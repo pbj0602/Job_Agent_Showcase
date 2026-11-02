@@ -1,0 +1,9 @@
+name: IT audit / GRC / security compliance
+title_keywords: [it audit, audit, grc, governance, risk, compliance, cyber security, cybersecurity, security analyst, iso 27001, soc 2]
+jd_keywords: [controls, iso 27001, soc 2, nist, gdpr, risk assessment, audit, cisa, policy, itgc]
+cv:
+  title_line: project
+  section_order: [profile, education, experience, skills]
+  lead_with: [controls tested, frameworks, findings, certifications]
+  evidence_tags: [grc, proj, all]
+  bullet_emphasis: "framework + scope tested + findings and remediation"

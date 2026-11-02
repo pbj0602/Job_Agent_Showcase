@@ -1,0 +1,9 @@
+name: Quantitative research / trading
+title_keywords: [quant, quantitative, trader, trading, quantitative researcher, quantitative analyst]
+jd_keywords: [probability, statistics, market making, options, stochastic, time series, backtest, c++, python]
+cv:
+  title_line: engineering
+  section_order: [education, experience, projects, skills]
+  lead_with: [math, statistics, trading systems, competitions]
+  evidence_tags: [swe, quant, all]
+  bullet_emphasis: "model or system + statistical result"

@@ -1,0 +1,9 @@
+name: Machine learning / AI engineering
+title_keywords: [machine learning, ml engineer, ai engineer, applied scientist, research engineer, llm, nlp, computer vision, deep learning, data scientist]
+jd_keywords: [pytorch, tensorflow, llm, transformers, model, training, evaluation, inference, rag, embeddings, mlops, fine-tuning]
+cv:
+  title_line: engineering
+  section_order: [profile, education, projects, experience, skills]
+  lead_with: [models shipped, evaluation, accuracy, data scale]
+  evidence_tags: [swe, ml, all]
+  bullet_emphasis: "model/system + evaluation metric + effect"

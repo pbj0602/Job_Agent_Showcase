@@ -1,0 +1,9 @@
+name: Consulting / strategy / business analysis
+title_keywords: [consultant, consulting, strategy, business analyst, advisory]
+jd_keywords: [client, workshop, analysis, recommendations, slide, stakeholder, business case, market research]
+cv:
+  title_line: product
+  section_order: [profile, education, experience, skills]
+  lead_with: [client impact, analysis, recommendations adopted]
+  evidence_tags: [pm, proj, all]
+  bullet_emphasis: "client problem + analysis + what the client did with it"

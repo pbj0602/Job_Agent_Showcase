@@ -1,0 +1,22 @@
+code: FR
+name: France
+flag: 🇫🇷
+places:
+- france
+- paris
+- lyon
+- toulouse
+- grenoble
+- nice
+- sophia antipolis
+- marseille
+- lille
+- nantes
+- bordeaux
+- rennes
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

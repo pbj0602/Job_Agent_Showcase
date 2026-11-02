@@ -1,0 +1,18 @@
+code: AT
+name: Austria
+flag: 🇦🇹
+places:
+- austria
+- österreich
+- vienna
+- wien
+- graz
+- linz
+- salzburg
+- innsbruck
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

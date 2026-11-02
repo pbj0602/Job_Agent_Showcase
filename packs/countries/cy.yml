@@ -1,0 +1,13 @@
+code: CY
+name: Cyprus
+flag: 🇨🇾
+places:
+- cyprus
+- nicosia
+- limassol
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

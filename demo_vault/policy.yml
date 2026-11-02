@@ -1,0 +1,5 @@
+auto_tailor_roles: [swe, ml, data, pm, proj]   # other roles go to the manual list
+calibration_reviews: 20      # small companies wait for the person's OK until this many applications exist
+exclude_werkstudent: true
+no_mandatory_internships: true   # Pflichtpraktikum etc. need a programme that requires the internship
+season_year: 2027

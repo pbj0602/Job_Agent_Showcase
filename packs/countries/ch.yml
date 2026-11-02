@@ -1,0 +1,26 @@
+code: CH
+name: Switzerland
+flag: 🇨🇭
+places:
+- switzerland
+- schweiz
+- suisse
+- svizzera
+- zurich
+- zürich
+- geneva
+- genève
+- genf
+- basel
+- bern
+- lausanne
+- zug
+- lugano
+- winterthur
+- st. gallen
+cv:
+  max_pages: 2
+  photo: common
+  birthdate: common
+  spelling: UK
+  note: Photo common, DOB and nationality listed (ZHAW)

@@ -1,0 +1,21 @@
+code: IT
+name: Italy
+flag: 🇮🇹
+places:
+- italy
+- italia
+- milan
+- milano
+- rome
+- roma
+- turin
+- torino
+- bologna
+- florence
+- firenze
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

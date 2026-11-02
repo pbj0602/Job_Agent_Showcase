@@ -1,0 +1,5 @@
+# Public sponsor registers (download the files yourself; paths are relative to the vault)
+# UK: https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers
+# NL: https://ind.nl/en/public-register-recognised-sponsors
+- {name: UK licensed sponsors, path: registers/uk_sponsors.csv, column: Organisation Name}
+- {name: NL IND recognised sponsors, path: registers/nl_ind.csv, column: Organisation}

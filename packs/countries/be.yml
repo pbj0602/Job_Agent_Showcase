@@ -1,0 +1,21 @@
+code: BE
+name: Belgium
+flag: 🇧🇪
+places:
+- belgium
+- belgique
+- belgië
+- brussels
+- bruxelles
+- brussel
+- antwerp
+- antwerpen
+- ghent
+- gent
+- leuven
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

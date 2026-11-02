@@ -1,0 +1,19 @@
+code: DK
+name: Denmark
+flag: 🇩🇰
+places:
+- denmark
+- danmark
+- copenhagen
+- københavn
+- aarhus
+- odense
+- aalborg
+- lyngby
+- kongens lyngby
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

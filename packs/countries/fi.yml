@@ -1,0 +1,18 @@
+code: FI
+name: Finland
+flag: 🇫🇮
+places:
+- finland
+- suomi
+- helsinki
+- espoo
+- tampere
+- oulu
+- turku
+- vantaa
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: Not individually researched; using the international CV default

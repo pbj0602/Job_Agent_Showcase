@@ -1,0 +1,65 @@
+code: UK
+name: United Kingdom
+flag: 🇬🇧
+places:
+- united kingdom
+- uk
+- gbr
+- great britain
+- britain
+- england
+- scotland
+- wales
+- northern ireland
+- greater london
+- london
+- city of london
+- canary wharf
+- manchester
+- edinburgh
+- glasgow
+- cambridge
+- oxford
+- bristol
+- leeds
+- birmingham
+- belfast
+- derry
+- newry
+- cardiff
+- sheffield
+- nottingham
+- liverpool
+- southampton
+- brighton
+- milton keynes
+- guildford
+- slough
+- coventry
+- leicester
+- aberdeen
+- dundee
+- warwick
+- cheltenham
+- bracknell
+- basingstoke
+- stevenage
+- farnborough
+- newcastle upon tyne
+- swindon
+- harwell
+- didcot
+- hatfield
+- watford
+- crawley
+- woking
+- uxbridge
+- chiswick
+- hammersmith
+- shoreditch
+cv:
+  max_pages: 2
+  photo: 'no'
+  birthdate: 'no'
+  spelling: UK
+  note: No DOB, gender, marital status or photo (Univ. of Worcester Careers)
